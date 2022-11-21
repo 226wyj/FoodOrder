@@ -8,7 +8,7 @@ A food order website project implemented using React.
 
 * Add certain numbers of food into the cart
 
-* View cart, adjust numbers again 
+* View cart, adjust numbers again, order food!
 
 ## Start
 
